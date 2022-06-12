@@ -1,3 +1,4 @@
+https://github.com/Oluwatimi11/codeape_resume/blob/main/public/img/oniyilo.jpg
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
